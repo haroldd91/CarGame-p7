@@ -1,0 +1,21 @@
+h1 {
+    color: #466995;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 32px;
+    background-color: #195b999e;
+    position: static;
+    width: 100%;
+    z-index: 5;
+}
+
+h2, h3 {
+    color: #333;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+  }
+
+body {
+    background-color: aliceblue;
+}    
+
